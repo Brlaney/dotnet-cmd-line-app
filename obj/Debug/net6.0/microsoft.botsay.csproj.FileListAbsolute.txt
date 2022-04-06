@@ -1,0 +1,15 @@
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\bin\Debug\net6.0\microsoft.botsay.exe
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\bin\Debug\net6.0\microsoft.botsay.deps.json
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\bin\Debug\net6.0\microsoft.botsay.runtimeconfig.json
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\bin\Debug\net6.0\microsoft.botsay.dll
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\bin\Debug\net6.0\microsoft.botsay.pdb
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.csproj.AssemblyReference.cache
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.AssemblyInfoInputs.cache
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.AssemblyInfo.cs
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.csproj.CoreCompileInputs.cache
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.dll
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\obj\Debug\net6.0\refint\microsoft.botsay.dll
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.pdb
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\obj\Debug\net6.0\microsoft.botsay.genruntimeconfig.cache
+C:\Users\Brlan\Documents\coding\repository\microsoft.botsay\obj\Debug\net6.0\ref\microsoft.botsay.dll
